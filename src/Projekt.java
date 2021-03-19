@@ -1,6 +1,7 @@
 public class Projekt {
 
     String projekt;
+    String Mati;
 
     public String getProjekt() {
         return projekt;
