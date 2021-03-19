@@ -2,6 +2,7 @@ public class Projekt {
 
     String projekt;
     String Mati;
+    String Katlin;
 
     public String getProjekt() {
         return projekt;
