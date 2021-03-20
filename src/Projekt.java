@@ -2,6 +2,10 @@ public class Projekt {
 
     String projekt;
 
+    public Projekt(String projekt) {
+        this.projekt = projekt;
+    }
+
     public String getProjekt() {
         return projekt;
     }
